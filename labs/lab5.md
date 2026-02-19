@@ -138,6 +138,7 @@ choose *appointment*. (When you re-train the model later on, select
 
   
    - To your *settings* const add said object:
+
      ```typescript
        const settings = {
          azureLanguageCredentials: azureLanguageCredentials /** global activation of NLU */,
